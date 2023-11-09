@@ -1,0 +1,24 @@
+{
+  "object" : {
+    "artifacts" : [
+      {
+        "kind" : "xcframework",
+        "packageRef" : {
+          "identity" : "mqttclient",
+          "kind" : "root",
+          "location" : "/Users/k.mamedoff/Desktop/Projects/MQTTClient",
+          "name" : "MQTTClient"
+        },
+        "path" : "/Users/k.mamedoff/Desktop/Projects/MQTTClient/frameworks/MQTTClient.xcframework",
+        "source" : {
+          "type" : "local"
+        },
+        "targetName" : "MQTTClient"
+      }
+    ],
+    "dependencies" : [
+
+    ]
+  },
+  "version" : 6
+}
